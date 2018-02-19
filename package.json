@@ -1,0 +1,20 @@
+{
+  "name": "bluesoft-cosmos-api",
+  "version": "1.0.0",
+  "description": "Um pacote npm para facilitar o acesso à API da Bluesoft Cosmos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bluesoft-cosmos",
+    "api",
+    "ean",
+    "ncm"
+  ],
+  "author": "Matheus CAS <matheus.mcas@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
