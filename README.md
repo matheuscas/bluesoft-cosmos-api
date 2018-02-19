@@ -1,5 +1,11 @@
 # Um pacote npm para facilitar o acesso à API da Bluesoft Cosmos
 
+## Como instalar
+
+```
+npm install bluesoft-cosmos-api --save
+```
+
 ## Como usar
 
 ```javascript
