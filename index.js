@@ -116,6 +116,7 @@ function gtins(codigo) {
 /**
  * Recupera detalhes do NCM e Produtos vínculados a ele, atráves do código informado.
  * @param {*} ncm 
+ * @param {*} page 
  */
 function ncmsProducts(ncm, page) {
     if (isTokenUndefined()) {
